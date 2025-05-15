@@ -50,11 +50,11 @@ What I Did:
 
 .
 
- 🧪 ## Project 3: Daily Fitness Tracker Analysis - PYTHON
+ ## Project 3: Daily Fitness Tracker Analysis - PYTHON
 * Data Cleaning & Visualisation
 * Tools – Python, Pandas, Matplotlib
 
-#![Screenshot 2025-05-15 104109](https://github.com/user-attachments/assets/20d1b1b3-016a-4a94-b5e8-c1788b3155c4)
+![Screenshot 2025-05-15 104109](https://github.com/user-attachments/assets/20d1b1b3-016a-4a94-b5e8-c1788b3155c4)
 
 ✅ What I Did:
 Imported and cleaned the dataset using Pandas for consistent formatting and accurate numerical types.
