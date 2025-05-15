@@ -1,4 +1,10 @@
-## Toluwanimi-s-Portfolio
+## Toluwanimi's Portfolio
+# Welcome to my portfolio — where data meets clarity.
+
+This portfolio showcases my work across data cleaning, visualisation, and analysis. You’ll find dashboards and projects that highlight my ability to present complex data in a simple, engaging way.
+With a strong foundation in analytics and a passion for problem-solving, I’m excited about using data to make smarter decisions. Thanks for visiting! I look forward to connecting with you!
+
+
 
 ## Project 1: BG Fashion Financial Report (POWER BI)
  Data Visualisation, Data Cleaning, Data Validation and structuring
